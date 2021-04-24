@@ -1,8 +1,8 @@
 # AutoVolume
-A program to automate the song volume using Spotify API.
+A program to automate the song volume using Spotify API and Windows-Sound-Manager.
 
 ## How it works
-By using the Spotify API you will be able to Automate your currently playing song to your ideal volume
+By using the Spotify claas you will be able to Automate your currently playing song to your ideal volume.
  
 
 
