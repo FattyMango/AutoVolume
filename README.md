@@ -12,4 +12,4 @@ By using the Spotify API you will be able to Automate your currently playing son
 
 ## Links
 * [Windows-Sound-Manager](https://github.com/Paradoxis/Windows-Sound-Manager)
-
+* [spotipy](https://github.com/plamere/spotipy)
