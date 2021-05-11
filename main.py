@@ -1,9 +1,7 @@
 from spotify import Spotify
-
+from appInfo import client_id,client_secret,redirect_uri
 def main():
-    s = Spotify(client_id="YOUR_client_id",
-            client_secret="YOUR_client_secret",
-            redirect_uri="YOUR_redirect_uri")
+    s = Spotify(client_id,client_secret,redirect_uri)
 
     while True:
         payload = s.get_current_data()
