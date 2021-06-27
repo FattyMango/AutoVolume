@@ -1,8 +1,8 @@
 # AutoVolume
-A program to automate the song volume using Spotify API and Windows-Sound-Manager.
+A program to automate songs volume using Spotify API
 
 ## How it works
-By using the Spotify claas you will be able to Automate your currently playing song to your ideal volume.
+By using the Spotify class you will be able to Automate your currently playing song to your desired volume.
  
 
 
@@ -11,5 +11,4 @@ By using the Spotify claas you will be able to Automate your currently playing s
 * **Python version:** Python 3.7
 
 ## Links
-* [Windows-Sound-Manager](https://github.com/Paradoxis/Windows-Sound-Manager)
 * [spotipy](https://github.com/plamere/spotipy)
